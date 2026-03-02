@@ -2,3 +2,6 @@ pandas
 selenium
 dash
 plotly
+webdriver-manager
+plotly-express
+streamlit

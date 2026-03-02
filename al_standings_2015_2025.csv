@@ -1,0 +1,166 @@
+year,division,team,wins,losses,win_pct
+2015,East,Toronto Blue Jays,93,69,0.574
+2015,East,New York Yankees,87,75,0.537
+2015,East,Baltimore Orioles,81,81,0.5
+2015,East,Tampa Bay Rays,80,82,0.494
+2015,East,Boston Red Sox,78,84,0.481
+2015,Central,Kansas City Royals,95,67,0.586
+2015,Central,Minnesota Twins,83,79,0.512
+2015,Central,Cleveland Indians,81,80,0.503
+2015,Central,Chicago White Sox,76,86,0.469
+2015,Central,Detroit Tigers,74,87,0.46
+2015,West,Texas Rangers,88,74,0.543
+2015,West,Houston Astros,86,76,0.531
+2015,West,Los Angeles Angels,85,77,0.525
+2015,West,Seattle Mariners,76,86,0.469
+2015,West,Oakland Athletics,68,94,0.42
+2016,East,Boston Red Sox,93,69,0.574
+2016,East,Baltimore Orioles,89,73,0.549
+2016,East,Toronto Blue Jays,89,73,0.549
+2016,East,New York Yankees,84,78,0.519
+2016,East,Tampa Bay Rays,68,94,0.42
+2016,Central,Cleveland Indians,94,67,0.584
+2016,Central,Detroit Tigers,86,75,0.534
+2016,Central,Kansas City Royals,81,81,0.5
+2016,Central,Chicago White Sox,78,84,0.481
+2016,Central,Minnesota Twins,59,103,0.364
+2016,West,Texas Rangers,95,67,0.586
+2016,West,Seattle Mariners,86,76,0.531
+2016,West,Houston Astros,84,78,0.519
+2016,West,Los Angeles Angels,74,88,0.457
+2016,West,Oakland Athletics,69,93,0.426
+2017,East,Boston Red Sox,93,69,0.574
+2017,East,New York Yankees,91,71,0.562
+2017,East,Tampa Bay Rays,80,82,0.494
+2017,East,Toronto Blue Jays,76,86,0.469
+2017,East,Baltimore Orioles,75,87,0.463
+2017,Central,Cleveland Indians,102,60,0.63
+2017,Central,Minnesota Twins,85,77,0.525
+2017,Central,Kansas City Royals,80,82,0.494
+2017,Central,Chicago White Sox,67,95,0.414
+2017,Central,Detroit Tigers,64,98,0.395
+2017,West,Houston Astros,101,61,0.623
+2017,West,Los Angeles Angels,80,82,0.494
+2017,West,Seattle Mariners,78,84,0.481
+2017,West,Texas Rangers,78,84,0.481
+2017,West,Oakland Athletics,75,87,0.463
+2018,East,Boston Red Sox,108,54,0.667
+2018,East,New York Yankees,100,62,0.617
+2018,East,Tampa Bay Rays,90,72,0.556
+2018,East,Toronto Blue Jays,73,89,0.451
+2018,East,Baltimore Orioles,47,115,0.29
+2018,Central,Cleveland Indians,91,71,0.562
+2018,Central,Minnesota Twins,78,84,0.481
+2018,Central,Detroit Tigers,64,98,0.395
+2018,Central,Chicago White Sox,62,100,0.383
+2018,Central,Kansas City Royals,58,104,0.358
+2018,West,Houston Astros,103,59,0.636
+2018,West,Oakland Athletics,97,65,0.599
+2018,West,Seattle Mariners,89,73,0.549
+2018,West,Los Angeles Angels,80,82,0.494
+2018,West,Texas Rangers,67,95,0.414
+2019,East,New York Yankees,103,59,0.636
+2019,East,Tampa Bay Rays,96,66,0.593
+2019,East,Boston Red Sox,84,78,0.519
+2019,East,Toronto Blue Jays,67,95,0.414
+2019,East,Baltimore Orioles,54,108,0.333
+2019,Central,Minnesota Twins,101,61,0.623
+2019,Central,Cleveland Indians,93,69,0.574
+2019,Central,Chicago White Sox,72,89,0.447
+2019,Central,Kansas City Royals,59,103,0.364
+2019,Central,Detroit Tigers,47,114,0.292
+2019,West,Houston Astros,107,55,0.66
+2019,West,Oakland Athletics,97,65,0.599
+2019,West,Texas Rangers,78,84,0.481
+2019,West,Los Angeles Angels,72,90,0.444
+2019,West,Seattle Mariners,68,94,0.42
+2020,East,Tampa Bay Rays,40,20,0.667
+2020,East,New York Yankees,33,27,0.55
+2020,East,Toronto Blue Jays,32,28,0.533
+2020,East,Baltimore Orioles,25,35,0.417
+2020,East,Boston Red Sox,24,36,0.4
+2020,Central,Minnesota Twins,36,24,0.6
+2020,Central,Chicago White Sox,35,25,0.583
+2020,Central,Cleveland Indians,35,25,0.583
+2020,Central,Kansas City Royals,26,34,0.433
+2020,Central,Detroit Tigers,23,35,0.397
+2020,West,Oakland Athletics,36,24,0.6
+2020,West,Houston Astros,29,31,0.483
+2020,West,Seattle Mariners,27,33,0.45
+2020,West,Los Angeles Angels,26,34,0.433
+2020,West,Texas Rangers,22,38,0.367
+2021,East,Tampa Bay Rays,100,62,0.617
+2021,East,Boston Red Sox,92,70,0.568
+2021,East,New York Yankees,92,70,0.568
+2021,East,Toronto Blue Jays,91,71,0.562
+2021,East,Baltimore Orioles,52,110,0.321
+2021,Central,Chicago White Sox,93,69,0.586
+2021,Central,Cleveland Indians,80,82,0.494
+2021,Central,Detroit Tigers,77,85,0.475
+2021,Central,Kansas City Royals,74,88,0.457
+2021,Central,Minnesota Twins,73,89,0.451
+2021,West,Houston Astros,95,67,0.586
+2021,West,Seattle Mariners,90,72,0.556
+2021,West,Oakland Athletics,86,76,0.531
+2021,West,Los Angeles Angels,77,85,0.754
+2021,West,Texas Rangers,60,102,0.37
+2022,East,New York Yankees,99,63,0.611
+2022,East,Toronto Blue Jays,92,70,0.568
+2022,East,Tampa Bay Rays,86,76,0.531
+2022,East,Baltimore Orioles,83,79,0.512
+2022,East,Boston Red Sox,78,84,0.481
+2022,Central,Cleveland Guardians,92,70,0.568
+2022,Central,Chicago White Sox,81,81,0.5
+2022,Central,Minnesota Twins,78,84,0.481
+2022,Central,Detroit Tigers,66,96,0.407
+2022,Central,Kansas City Royals,65,97,0.401
+2022,West,Houston Astros,106,56,0.654
+2022,West,Seattle Mariners,90,72,0.556
+2022,West,Los Angeles Angels,73,89,0.451
+2022,West,Texas Rangers,68,94,0.42
+2022,West,Oakland Athletics,60,102,0.37
+2023,East,Baltimore Orioles,101,61,0.623
+2023,East,Tampa Bay Rays,99,63,0.611
+2023,East,Toronto Blue Jays,89,73,0.549
+2023,East,New York Yankees,82,80,0.506
+2023,East,Boston Red Sox,78,84,0.481
+2023,Central,Minnesota Twins,87,75,0.537
+2023,Central,Detroit Tigers,78,84,0.481
+2023,Central,Cleveland Guardians,76,86,0.469
+2023,Central,Chicago White Sox,61,101,0.377
+2023,Central,Kansas City Royals,56,106,0.346
+2023,West,Houston Astros,90,72,0.556
+2023,West,Texas Rangers,90,72,0.556
+2023,West,Seattle Mariners,88,74,0.543
+2023,West,Los Angeles Angels,73,89,0.451
+2023,West,Oakland Athletics,50,112,0.309
+2024,East,New York Yankees,94,68,0.58
+2024,East,Baltimore Orioles,91,71,0.562
+2024,East,Boston Red Sox,81,81,0.5
+2024,East,Tampa Bay Rays,80,82,0.494
+2024,East,Toronto Blue Jays,74,88,0.457
+2024,Central,Cleveland Guardians,92,69,0.571
+2024,Central,Kansas City Royals,86,76,0.531
+2024,Central,Detroit Tigers,86,76,0.531
+2024,Central,Minnesota Twins,82,80,0.506
+2024,Central,Chicago White Sox,41,121,0.253
+2024,West,Houston Astros,88,73,0.547
+2024,West,Seattle Mariners,85,77,0.525
+2024,West,Texas Rangers,78,84,0.481
+2024,West,Oakland Athletics,69,93,0.426
+2024,West,Los Angeles Angels,63,99,0.389
+2025,East,Toronto Blue Jays,94,68,0.58
+2025,East,New York Yankees,94,68,0.58
+2025,East,Boston Red Sox,89,73,0.549
+2025,East,Tampa Bay Rays,77,85,0.475
+2025,East,Baltimore Orioles,75,87,0.463
+2025,Central,Cleveland Guardians,88,74,0.543
+2025,Central,Detroit Tigers,87,75,0.537
+2025,Central,Kansas City Royals,82,80,0.506
+2025,Central,Minnesota Twins,70,92,0.432
+2025,Central,Chicago White Sox,60,102,0.37
+2025,West,Seattle Mariners,90,72,0.556
+2025,West,Houston Astros,87,75,0.537
+2025,West,Texas Rangers,81,81,0.5
+2025,West,Sacramento Athletics,76,86,0.469
+2025,West,Los Angeles Angels,72,90,0.444

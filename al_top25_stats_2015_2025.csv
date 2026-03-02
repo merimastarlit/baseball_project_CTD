@@ -1,0 +1,826 @@
+year,stat_type,player,value,team
+2015,HR,Chris Davis,47.0,Baltimore Orioles
+2015,HR,Nelson Cruz,44.0,Seattle Mariners
+2015,HR,Josh Donaldson,41.0,Toronto Blue Jays
+2015,HR,Mike Trout,41.0,Los Angeles Angels
+2015,HR,Jose Bautista,40.0,Toronto Blue Jays
+2015,HR,Albert Pujols,40.0,Los Angeles Angels
+2015,HR,Edwin Encarnacion,39.0,Toronto Blue Jays
+2015,HR,J.D. Martinez,38.0,Detroit Tigers
+2015,HR,David Ortiz,37.0,Boston Red Sox
+2015,HR,Manny Machado,35.0,Baltimore Orioles
+2015,HR,Alex Rodriguez,33.0,New York Yankees
+2015,HR,Mark Teixeira,31.0,New York Yankees
+2015,HR,José Abreu,30.0,Chicago White Sox
+2015,HR,Brian Dozier,28.0,Minnesota Twins
+2015,HR,Evan Gattis,27.0,Houston Astros
+2015,HR,Adam Jones,27.0,Baltimore Orioles
+2015,HR,Kole Calhoun,26.0,Los Angeles Angels
+2015,HR,Brian McCann,26.0,New York Yankees
+2015,HR,Kyle Seager,26.0,Seattle Mariners
+2015,HR,Colby Rasmus,25.0,Houston Astros
+2015,HR,Luis Valbuena,25.0,Houston Astros
+2015,HR,Chris Carter,24.0,Houston Astros
+2015,HR,Prince Fielder,23.0,Texas Rangers
+2015,HR,Russell Martin,23.0,Toronto Blue Jays
+2015,HR,Mitch Moreland,23.0,Texas Rangers
+2015,RBI,Josh Donaldson,123.0,Toronto Blue Jays
+2015,RBI,Chris Davis,117.0,Baltimore Orioles
+2015,RBI,Jose Bautista,114.0,Toronto Blue Jays
+2015,RBI,Edwin Encarnacion,111.0,Toronto Blue Jays
+2015,RBI,David Ortiz,108.0,Boston Red Sox
+2015,RBI,Kendrys Morales,106.0,Kansas City Royals
+2015,RBI,J.D. Martinez,102.0,Detroit Tigers
+2015,RBI,José Abreu,101.0,Chicago White Sox
+2015,RBI,Prince Fielder,98.0,Texas Rangers
+2015,RBI,Albert Pujols,95.0,Los Angeles Angels
+2015,RBI,Brian McCann,94.0,New York Yankees
+2015,RBI,Nelson Cruz,93.0,Seattle Mariners
+2015,RBI,Eric Hosmer,93.0,Kansas City Royals
+2015,RBI,Mike Trout,90.0,Los Angeles Angels
+2015,RBI,Evan Gattis,88.0,Houston Astros
+2015,RBI,Manny Machado,86.0,Baltimore Orioles
+2015,RBI,Trevor Plouffe,86.0,Minnesota Twins
+2015,RBI,Alex Rodriguez,86.0,New York Yankees
+2015,RBI,Mitch Moreland,85.0,Texas Rangers
+2015,RBI,Carlos Santana,85.0,Cleveland Indians
+2015,RBI,Michael Brantley,84.0,Cleveland Indians
+2015,RBI,Adrián Beltré,83.0,Texas Rangers
+2015,RBI,Kole Calhoun,83.0,Los Angeles Angels
+2015,RBI,Shin-Soo Choo,82.0,Texas Rangers
+2015,RBI,Adam Jones,82.0,Baltimore Orioles
+2015,SB,Jose Altuve,38.0,Houston Astros
+2015,SB,Lorenzo Cain,28.0,Kansas City Royals
+2015,SB,Billy Burns,26.0,Oakland Athletics
+2015,SB,Jarrod Dyson,26.0,Kansas City Royals
+2015,SB,Elvis Andrus,25.0,Texas Rangers
+2015,SB,Delino DeShields,25.0,Texas Rangers
+2015,SB,Kevin Pillar,25.0,Toronto Blue Jays
+2015,SB,Jake Marisnick,24.0,Houston Astros
+2015,SB,Anthony Gose,23.0,Detroit Tigers
+2015,SB,Mookie Betts,21.0,Boston Red Sox
+2015,SB,Jacoby Ellsbury,21.0,New York Yankees
+2015,SB,Brett Gardner,20.0,New York Yankees
+2015,SB,Manny Machado,20.0,Baltimore Orioles
+2015,SB,Rajai Davis,18.0,Detroit Tigers
+2015,SB,Adam Eaton,18.0,Chicago White Sox
+2015,SB,Kevin Kiermaier,18.0,Tampa Bay Rays
+2015,SB,Alcides Escobar,17.0,Kansas City Royals
+2015,SB,Alexei Ramirez,17.0,Chicago White Sox
+2015,SB,Jose Reyes,16.0,Toronto Blue Jays
+2015,SB,George Springer,16.0,Houston Astros
+2015,SB,Erick Aybar,15.0,Los Angeles Angels
+2015,SB,Michael Brantley,15.0,Cleveland Indians
+2015,SB,Austin Jackson,15.0,Seattle Mariners
+2015,SB,Carlos Correa,14.0,Houston Astros
+2015,SB,Leonys Martin,14.0,Texas Rangers
+2016,HR,Mark Trumbo,47.0,Baltimore Orioles
+2016,HR,Nelson Cruz,43.0,Seattle Mariners
+2016,HR,Khris Davis,42.0,Oakland Athletics
+2016,HR,Brian Dozier,42.0,Minnesota Twins
+2016,HR,Edwin Encarnacion,42.0,Toronto Blue Jays
+2016,HR,Todd Frazier,40.0,Chicago White Sox
+2016,HR,Robinson Cano,39.0,Seattle Mariners
+2016,HR,Miguel Cabrera,38.0,Detroit Tigers
+2016,HR,Chris Davis,38.0,Baltimore Orioles
+2016,HR,David Ortiz,38.0,Boston Red Sox
+2016,HR,Josh Donaldson,37.0,Toronto Blue Jays
+2016,HR,Manny Machado,37.0,Baltimore Orioles
+2016,HR,Evan Longoria,36.0,Tampa Bay Rays
+2016,HR,Mike Napoli,34.0,Cleveland Indians
+2016,HR,Carlos Santana,34.0,Cleveland Indians
+2016,HR,Rougned Odor,33.0,Texas Rangers
+2016,HR,Adrián Beltré,32.0,Texas Rangers
+2016,HR,Evan Gattis,32.0,Houston Astros
+2016,HR,Mookie Betts,31.0,Boston Red Sox
+2016,HR,Albert Pujols,31.0,Los Angeles Angels
+2016,HR,Justin Upton,31.0,Detroit Tigers
+2016,HR,Brad Miller,30.0,Tampa Bay Rays
+2016,HR,Kendrys Morales,30.0,Kansas City Royals
+2016,HR,Hanley Ramirez,30.0,Boston Red Sox
+2016,HR,Kyle Seager,30.0,Seattle Mariners
+2016,RBI,Edwin Encarnacion,127.0,Toronto Blue Jays
+2016,RBI,David Ortiz,127.0,Boston Red Sox
+2016,RBI,Albert Pujols,119.0,Los Angeles Angels
+2016,RBI,Mookie Betts,113.0,Boston Red Sox
+2016,RBI,Hanley Ramirez,111.0,Boston Red Sox
+2016,RBI,Miguel Cabrera,108.0,Detroit Tigers
+2016,RBI,Mark Trumbo,108.0,Baltimore Orioles
+2016,RBI,Nelson Cruz,105.0,Seattle Mariners
+2016,RBI,Adrián Beltré,104.0,Texas Rangers
+2016,RBI,Eric Hosmer,104.0,Kansas City Royals
+2016,RBI,Robinson Cano,103.0,Seattle Mariners
+2016,RBI,Khris Davis,102.0,Oakland Athletics
+2016,RBI,Mike Napoli,101.0,Cleveland Indians
+2016,RBI,José Abreu,100.0,Chicago White Sox
+2016,RBI,Mike Trout,100.0,Los Angeles Angels
+2016,RBI,Josh Donaldson,99.0,Toronto Blue Jays
+2016,RBI,Brian Dozier,99.0,Minnesota Twins
+2016,RBI,Kyle Seager,99.0,Seattle Mariners
+2016,RBI,Todd Frazier,98.0,Chicago White Sox
+2016,RBI,Evan Longoria,98.0,Tampa Bay Rays
+2016,RBI,Jose Altuve,96.0,Houston Astros
+2016,RBI,Carlos Correa,96.0,Houston Astros
+2016,RBI,Manny Machado,96.0,Baltimore Orioles
+2016,RBI,Carlos Beltran,93.0,New York Yankees
+2016,RBI,Kendrys Morales,93.0,Kansas City Royals
+2016,SB,Rajai Davis,43.0,Cleveland Indians
+2016,SB,Jose Altuve,30.0,Houston Astros
+2016,SB,Jarrod Dyson,30.0,Kansas City Royals
+2016,SB,Mike Trout,30.0,Los Angeles Angels
+2016,SB,Eduardo Nunez,27.0,Minnesota Twins
+2016,SB,Mookie Betts,26.0,Boston Red Sox
+2016,SB,Elvis Andrus,24.0,Texas Rangers
+2016,SB,Leonys Martin,24.0,Seattle Mariners
+2016,SB,José Ramírez,22.0,Cleveland Indians
+2016,SB,Ian Desmond,21.0,Texas Rangers
+2016,SB,Kevin Kiermaier,21.0,Tampa Bay Rays
+2016,SB,Jacoby Ellsbury,20.0,New York Yankees
+2016,SB,Francisco Lindor,19.0,Cleveland Indians
+2016,SB,Brian Dozier,18.0,Minnesota Twins
+2016,SB,Carlos Gómez,18.0,Houston Astros
+2016,SB,Billy Burns,17.0,Oakland Athletics
+2016,SB,Alcides Escobar,17.0,Kansas City Royals
+2016,SB,Brett Gardner,16.0,New York Yankees
+2016,SB,Todd Frazier,15.0,Chicago White Sox
+2016,SB,Jason Kipnis,15.0,Cleveland Indians
+2016,SB,Cameron Maybin,15.0,Detroit Tigers
+2016,SB,Lorenzo Cain,14.0,Kansas City Royals
+2016,SB,Adam Eaton,14.0,Chicago White Sox
+2016,SB,Ian Kinsler,14.0,Detroit Tigers
+2016,SB,Rougned Odor,14.0,Texas Rangers
+2017,HR,Aaron Judge,52.0,New York Yankees
+2017,HR,Khris Davis,43.0,Oakland Athletics
+2017,HR,Joey Gallo,41.0,Texas Rangers
+2017,HR,Nelson Cruz,39.0,Seattle Mariners
+2017,HR,Edwin Encarnacion,38.0,Cleveland Indians
+2017,HR,Logan Morrison,38.0,Tampa Bay Rays
+2017,HR,Mike Moustakas,38.0,Kansas City Royals
+2017,HR,Justin Smoak,38.0,Toronto Blue Jays
+2017,HR,Justin Upton,35.0,Detroit Tigers
+2017,HR,Brian Dozier,34.0,Minnesota Twins
+2017,HR,George Springer,34.0,Houston Astros
+2017,HR,José Abreu,33.0,Chicago White Sox
+2017,HR,Josh Donaldson,33.0,Toronto Blue Jays
+2017,HR,Francisco Lindor,33.0,Cleveland Indians
+2017,HR,Manny Machado,33.0,Baltimore Orioles
+2017,HR,Gary Sánchez,33.0,New York Yankees
+2017,HR,Mike Trout,33.0,Los Angeles Angels
+2017,HR,Jonathan Schoop,32.0,Baltimore Orioles
+2017,HR,Rougned Odor,30.0,Texas Rangers
+2017,HR,Steven Souza Jr.,30.0,Tampa Bay Rays
+2017,HR,Mike Napoli,29.0,Texas Rangers
+2017,HR,José Ramírez,29.0,Cleveland Indians
+2017,HR,Yonder Alonso,28.0,Oakland Athletics
+2017,HR,Kendrys Morales,28.0,Toronto Blue Jays
+2017,HR,Miguel Sanó,28.0,Minnesota Twins
+2017,RBI,Nelson Cruz,119.0,Seattle Mariners
+2017,RBI,Aaron Judge,114.0,New York Yankees
+2017,RBI,Khris Davis,110.0,Oakland Athletics
+2017,RBI,Justin Upton,109.0,Detroit Tigers
+2017,RBI,Edwin Encarnacion,107.0,Cleveland Indians
+2017,RBI,Jonathan Schoop,105.0,Baltimore Orioles
+2017,RBI,José Abreu,102.0,Chicago White Sox
+2017,RBI,Mookie Betts,102.0,Boston Red Sox
+2017,RBI,Nick Castellanos,101.0,Detroit Tigers
+2017,RBI,Nomar Mazara,101.0,Texas Rangers
+2017,RBI,Albert Pujols,101.0,Los Angeles Angels
+2017,RBI,Robinson Cano,97.0,Seattle Mariners
+2017,RBI,Manny Machado,95.0,Baltimore Orioles
+2017,RBI,Eric Hosmer,94.0,Kansas City Royals
+2017,RBI,Brian Dozier,93.0,Minnesota Twins
+2017,RBI,Andrew Benintendi,90.0,Boston Red Sox
+2017,RBI,Marwin Gonzalez,90.0,Houston Astros
+2017,RBI,Justin Smoak,90.0,Toronto Blue Jays
+2017,RBI,Gary Sánchez,90.0,New York Yankees
+2017,RBI,Francisco Lindor,89.0,Cleveland Indians
+2017,RBI,Elvis Andrus,88.0,Texas Rangers
+2017,RBI,Kyle Seager,88.0,Seattle Mariners
+2017,RBI,Didi Gregorius,87.0,New York Yankees
+2017,RBI,Evan Longoria,86.0,Tampa Bay Rays
+2017,RBI,Melky Cabrera,85.0,Chicago White Sox
+2017,SB,Whit Merrifield,34.0,Kansas City Royals
+2017,SB,Cameron Maybin,33.0,Los Angeles Angels
+2017,SB,Jose Altuve,32.0,Houston Astros
+2017,SB,Byron Buxton,29.0,Minnesota Twins
+2017,SB,Rajai Davis,29.0,Oakland Athletics
+2017,SB,Delino DeShields,29.0,Texas Rangers
+2017,SB,Jarrod Dyson,28.0,Seattle Mariners
+2017,SB,Mookie Betts,26.0,Boston Red Sox
+2017,SB,Lorenzo Cain,26.0,Kansas City Royals
+2017,SB,Elvis Andrus,25.0,Texas Rangers
+2017,SB,Brett Gardner,23.0,New York Yankees
+2017,SB,Jacoby Ellsbury,22.0,New York Yankees
+2017,SB,Jean Segura,22.0,Seattle Mariners
+2017,SB,Mike Trout,22.0,Los Angeles Angels
+2017,SB,Ben Revere,21.0,Los Angeles Angels
+2017,SB,Andrew Benintendi,20.0,Boston Red Sox
+2017,SB,Andrelton Simmons,19.0,Los Angeles Angels
+2017,SB,Bradley Zimmer,18.0,Cleveland Indians
+2017,SB,Alex Bregman,17.0,Houston Astros
+2017,SB,José Ramírez,17.0,Cleveland Indians
+2017,SB,Brian Dozier,16.0,Minnesota Twins
+2017,SB,Kevin Kiermaier,16.0,Tampa Bay Rays
+2017,SB,Mallex Smith,16.0,Tampa Bay Rays
+2017,SB,Steven Souza Jr.,16.0,Tampa Bay Rays
+2017,SB,Tim Anderson,15.0,Chicago White Sox
+2018,HR,Khris Davis,48.0,Oakland Athletics
+2018,HR,J.D. Martinez,43.0,Boston Red Sox
+2018,HR,Joey Gallo,40.0,Texas Rangers
+2018,HR,José Ramírez,39.0,Cleveland Indians
+2018,HR,Mike Trout,39.0,Los Angeles Angels
+2018,HR,Francisco Lindor,38.0,Cleveland Indians
+2018,HR,Giancarlo Stanton,38.0,New York Yankees
+2018,HR,Nelson Cruz,37.0,Seattle Mariners
+2018,HR,Mookie Betts,32.0,Boston Red Sox
+2018,HR,Edwin Encarnacion,32.0,Cleveland Indians
+2018,HR,Alex Bregman,31.0,Houston Astros
+2018,HR,C.J. Cron,30.0,Tampa Bay Rays
+2018,HR,Justin Upton,30.0,Los Angeles Angels
+2018,HR,Matt Olson,29.0,Oakland Athletics
+2018,HR,Miguel Andujar,27.0,New York Yankees
+2018,HR,Didi Gregorius,27.0,New York Yankees
+2018,HR,Aaron Hicks,27.0,New York Yankees
+2018,HR,Aaron Judge,27.0,New York Yankees
+2018,HR,Daniel Palka,27.0,Chicago White Sox
+2018,HR,Salvador Perez,27.0,Kansas City Royals
+2018,HR,Stephen Piscotty,27.0,Oakland Athletics
+2018,HR,Mitch Haniger,26.0,Seattle Mariners
+2018,HR,Evan Gattis,25.0,Houston Astros
+2018,HR,Randal Grichuk,25.0,Toronto Blue Jays
+2018,HR,Justin Smoak,25.0,Toronto Blue Jays
+2018,RBI,J.D. Martinez,130.0,Boston Red Sox
+2018,RBI,Khris Davis,123.0,Oakland Athletics
+2018,RBI,Edwin Encarnacion,107.0,Cleveland Indians
+2018,RBI,José Ramírez,105.0,Cleveland Indians
+2018,RBI,Xander Bogaerts,103.0,Boston Red Sox
+2018,RBI,Alex Bregman,103.0,Houston Astros
+2018,RBI,Giancarlo Stanton,100.0,New York Yankees
+2018,RBI,Jed Lowrie,99.0,Oakland Athletics
+2018,RBI,Nelson Cruz,97.0,Seattle Mariners
+2018,RBI,Mitch Haniger,93.0,Seattle Mariners
+2018,RBI,Miguel Andujar,92.0,New York Yankees
+2018,RBI,Joey Gallo,92.0,Texas Rangers
+2018,RBI,Francisco Lindor,92.0,Cleveland Indians
+2018,RBI,Nick Castellanos,89.0,Detroit Tigers
+2018,RBI,Stephen Piscotty,88.0,Oakland Athletics
+2018,RBI,Andrew Benintendi,87.0,Boston Red Sox
+2018,RBI,Didi Gregorius,86.0,New York Yankees
+2018,RBI,Yuli Gurriel,85.0,Houston Astros
+2018,RBI,Justin Upton,85.0,Los Angeles Angels
+2018,RBI,Matt Olson,84.0,Oakland Athletics
+2018,RBI,Yonder Alonso,83.0,Cleveland Indians
+2018,RBI,Mookie Betts,80.0,Boston Red Sox
+2018,RBI,Salvador Perez,80.0,Kansas City Royals
+2018,RBI,Aaron Hicks,79.0,New York Yankees
+2018,RBI,Mike Trout,79.0,Los Angeles Angels
+2018,SB,Whit Merrifield,45.0,Kansas City Royals
+2018,SB,Mallex Smith,40.0,Tampa Bay Rays
+2018,SB,José Ramírez,34.0,Cleveland Indians
+2018,SB,Adalberto Mondesi,32.0,Kansas City Royals
+2018,SB,Mookie Betts,30.0,Boston Red Sox
+2018,SB,Dee Strange-Gordon,30.0,Seattle Mariners
+2018,SB,Tim Anderson,26.0,Chicago White Sox
+2018,SB,Francisco Lindor,25.0,Cleveland Indians
+2018,SB,Mike Trout,24.0,Los Angeles Angels
+2018,SB,Greg Allen,21.0,Cleveland Indians
+2018,SB,Andrew Benintendi,21.0,Boston Red Sox
+2018,SB,Rajai Davis,21.0,Cleveland Indians
+2018,SB,Jonathan Villar,21.0,Baltimore Orioles
+2018,SB,Delino DeShields,20.0,Texas Rangers
+2018,SB,Jean Segura,20.0,Seattle Mariners
+2018,SB,Jose Altuve,17.0,Houston Astros
+2018,SB,Jackie Bradley Jr.,17.0,Boston Red Sox
+2018,SB,Adam Engel,16.0,Chicago White Sox
+2018,SB,Brett Gardner,16.0,New York Yankees
+2018,SB,Ian Kinsler,16.0,Los Angeles Angels
+2018,SB,Joey Wendle,16.0,Tampa Bay Rays
+2018,SB,José Iglesias,15.0,Detroit Tigers
+2018,SB,Kevin Pillar,14.0,Toronto Blue Jays
+2018,SB,Yolmer Sanchez,14.0,Chicago White Sox
+2018,SB,Marcus Semien,14.0,Oakland Athletics
+2019,HR,Jorge Soler,48.0,Kansas City Royals
+2019,HR,Mike Trout,45.0,Los Angeles Angels
+2019,HR,Alex Bregman,41.0,Houston Astros
+2019,HR,Nelson Cruz,41.0,Minnesota Twins
+2019,HR,George Springer,39.0,Houston Astros
+2019,HR,Gleyber Torres,38.0,New York Yankees
+2019,HR,Matt Chapman,36.0,Oakland Athletics
+2019,HR,Max Kepler,36.0,Minnesota Twins
+2019,HR,J.D. Martinez,36.0,Boston Red Sox
+2019,HR,Matt Olson,36.0,Oakland Athletics
+2019,HR,Trey Mancini,35.0,Baltimore Orioles
+2019,HR,Edwin Encarnacion,34.0,Seattle Mariners
+2019,HR,Carlos Santana,34.0,Cleveland Indians
+2019,HR,Miguel Sanó,34.0,Minnesota Twins
+2019,HR,Gary Sánchez,34.0,New York Yankees
+2019,HR,José Abreu,33.0,Chicago White Sox
+2019,HR,Xander Bogaerts,33.0,Boston Red Sox
+2019,HR,Kole Calhoun,33.0,Los Angeles Angels
+2019,HR,Austin Meadows,33.0,Tampa Bay Rays
+2019,HR,Marcus Semien,33.0,Oakland Athletics
+2019,HR,Rafael Devers,32.0,Boston Red Sox
+2019,HR,Francisco Lindor,32.0,Cleveland Indians
+2019,HR,Eddie Rosario,32.0,Minnesota Twins
+2019,HR,Jose Altuve,31.0,Houston Astros
+2019,HR,Mitch Garver,31.0,Minnesota Twins
+2019,RBI,José Abreu,123.0,Chicago White Sox
+2019,RBI,Xander Bogaerts,117.0,Boston Red Sox
+2019,RBI,Jorge Soler,117.0,Kansas City Royals
+2019,RBI,Rafael Devers,115.0,Boston Red Sox
+2019,RBI,Alex Bregman,112.0,Houston Astros
+2019,RBI,Eddie Rosario,109.0,Minnesota Twins
+2019,RBI,Nelson Cruz,108.0,Minnesota Twins
+2019,RBI,J.D. Martinez,105.0,Boston Red Sox
+2019,RBI,Yuli Gurriel,104.0,Houston Astros
+2019,RBI,Mike Trout,104.0,Los Angeles Angels
+2019,RBI,DJ LeMahieu,102.0,New York Yankees
+2019,RBI,Trey Mancini,97.0,Baltimore Orioles
+2019,RBI,George Springer,96.0,Houston Astros
+2019,RBI,Rougned Odor,93.0,Texas Rangers
+2019,RBI,Albert Pujols,93.0,Los Angeles Angels
+2019,RBI,Carlos Santana,93.0,Cleveland Indians
+2019,RBI,Marcus Semien,92.0,Oakland Athletics
+2019,RBI,Matt Chapman,91.0,Oakland Athletics
+2019,RBI,Matt Olson,91.0,Oakland Athletics
+2019,RBI,Michael Brantley,90.0,Houston Astros
+2019,RBI,Max Kepler,90.0,Minnesota Twins
+2019,RBI,Renato Núñez,90.0,Baltimore Orioles
+2019,RBI,Gleyber Torres,90.0,New York Yankees
+2019,RBI,Austin Meadows,89.0,Tampa Bay Rays
+2019,RBI,Edwin Encarnacion,86.0,Seattle Mariners
+2019,SB,Mallex Smith,46.0,Seattle Mariners
+2019,SB,Adalberto Mondesi,43.0,Kansas City Royals
+2019,SB,Jonathan Villar,40.0,Baltimore Orioles
+2019,SB,Elvis Andrus,31.0,Texas Rangers
+2019,SB,Tommy Pham,25.0,Tampa Bay Rays
+2019,SB,Delino DeShields,24.0,Texas Rangers
+2019,SB,José Ramírez,24.0,Cleveland Indians
+2019,SB,Francisco Lindor,22.0,Cleveland Indians
+2019,SB,Dee Strange-Gordon,22.0,Seattle Mariners
+2019,SB,Danny Santana,21.0,Texas Rangers
+2019,SB,Whit Merrifield,20.0,Kansas City Royals
+2019,SB,Kevin Kiermaier,19.0,Tampa Bay Rays
+2019,SB,Billy Hamilton,18.0,Kansas City Royals
+2019,SB,Tim Anderson,17.0,Chicago White Sox
+2019,SB,Mookie Betts,16.0,Boston Red Sox
+2019,SB,Shin-Soo Choo,15.0,Texas Rangers
+2019,SB,Leury García,15.0,Chicago White Sox
+2019,SB,Óscar Mercado,15.0,Cleveland Indians
+2019,SB,Cavan Biggio,14.0,Toronto Blue Jays
+2019,SB,Byron Buxton,14.0,Minnesota Twins
+2019,SB,Terrance Gore,13.0,Kansas City Royals
+2019,SB,Ramón Laureano,13.0,Oakland Athletics
+2019,SB,Niko Goodrum,12.0,Detroit Tigers
+2019,SB,Austin Meadows,12.0,Tampa Bay Rays
+2019,SB,Shohei Ohtani,12.0,Los Angeles Angels
+2020,HR,Luke Voit,22.0,New York Yankees
+2020,HR,José Abreu,19.0,Chicago White Sox
+2020,HR,José Ramírez,17.0,Cleveland Indians
+2020,HR,Mike Trout,17.0,Los Angeles Angels
+2020,HR,Nelson Cruz,16.0,Minnesota Twins
+2020,HR,Teoscar Hernández,16.0,Toronto Blue Jays
+2020,HR,Eloy Jiménez,14.0,Chicago White Sox
+2020,HR,Brandon Lowe,14.0,Tampa Bay Rays
+2020,HR,Matt Olson,14.0,Oakland Athletics
+2020,HR,George Springer,14.0,Houston Astros
+2020,HR,Byron Buxton,13.0,Minnesota Twins
+2020,HR,Eddie Rosario,13.0,Minnesota Twins
+2020,HR,Miguel Sanó,13.0,Minnesota Twins
+2020,HR,Randal Grichuk,12.0,Toronto Blue Jays
+2020,HR,Renato Núñez,12.0,Baltimore Orioles
+2020,HR,Xander Bogaerts,11.0,Boston Red Sox
+2020,HR,Rafael Devers,11.0,Boston Red Sox
+2020,HR,Lourdes Gurriel Jr.,11.0,Toronto Blue Jays
+2020,HR,Kyle Lewis,11.0,Seattle Mariners
+2020,HR,Salvador Perez,11.0,Kansas City Royals
+2020,HR,Luis Robert Jr.,11.0,Chicago White Sox
+2020,HR,Anthony Santander,11.0,Baltimore Orioles
+2020,HR,Tim Anderson,10.0,Chicago White Sox
+2020,HR,Miguel Cabrera,10.0,Detroit Tigers
+2020,HR,Matt Chapman,10.0,Oakland Athletics
+2020,RBI,José Abreu,60.0,Chicago White Sox
+2020,RBI,Luke Voit,52.0,New York Yankees
+2020,RBI,José Ramírez,46.0,Cleveland Indians
+2020,RBI,Mike Trout,46.0,Los Angeles Angels
+2020,RBI,Rafael Devers,43.0,Boston Red Sox
+2020,RBI,Matt Olson,42.0,Oakland Athletics
+2020,RBI,Eddie Rosario,42.0,Minnesota Twins
+2020,RBI,Kyle Tucker,42.0,Houston Astros
+2020,RBI,Eloy Jiménez,41.0,Chicago White Sox
+2020,RBI,Kyle Seager,40.0,Seattle Mariners
+2020,RBI,Maikel Franco,38.0,Kansas City Royals
+2020,RBI,Brandon Lowe,37.0,Tampa Bay Rays
+2020,RBI,Miguel Cabrera,35.0,Detroit Tigers
+2020,RBI,Randal Grichuk,35.0,Toronto Blue Jays
+2020,RBI,Teoscar Hernández,34.0,Toronto Blue Jays
+2020,RBI,Franmil Reyes,34.0,Cleveland Indians
+2020,RBI,Mark Canha,33.0,Oakland Athletics
+2020,RBI,Nelson Cruz,33.0,Minnesota Twins
+2020,RBI,Vladimir Guerrero Jr.,33.0,Toronto Blue Jays
+2020,RBI,Lourdes Gurriel Jr.,33.0,Toronto Blue Jays
+2020,RBI,Salvador Perez,32.0,Kansas City Royals
+2020,RBI,Rio Ruiz,32.0,Baltimore Orioles
+2020,RBI,Anthony Santander,32.0,Baltimore Orioles
+2020,RBI,George Springer,32.0,Houston Astros
+2020,RBI,Renato Núñez,31.0,Baltimore Orioles
+2020,SB,Adalberto Mondesi,24.0,Kansas City Royals
+2020,SB,Manuel Margot,12.0,Tampa Bay Rays
+2020,SB,Whit Merrifield,12.0,Kansas City Royals
+2020,SB,Dylan Moore,12.0,Seattle Mariners
+2020,SB,José Ramírez,10.0,Cleveland Indians
+2020,SB,Luis Robert Jr.,9.0,Chicago White Sox
+2020,SB,Xander Bogaerts,8.0,Boston Red Sox
+2020,SB,Robbie Grossman,8.0,Oakland Athletics
+2020,SB,Kevin Kiermaier,8.0,Tampa Bay Rays
+2020,SB,Isiah Kiner-Falefa,8.0,Texas Rangers
+2020,SB,Victor Reyes,8.0,Detroit Tigers
+2020,SB,Leody Taveras,8.0,Texas Rangers
+2020,SB,Kyle Tucker,8.0,Houston Astros
+2020,SB,Joey Wendle,8.0,Tampa Bay Rays
+2020,SB,Niko Goodrum,7.0,Detroit Tigers
+2020,SB,Cedric Mullins,7.0,Baltimore Orioles
+2020,SB,Shohei Ohtani,7.0,Los Angeles Angels
+2020,SB,Nick Solak,7.0,Texas Rangers
+2020,SB,Jonathan Villar,7.0,Toronto Blue Jays
+2020,SB,Cavan Biggio,6.0,Toronto Blue Jays
+2020,SB,Shin-Soo Choo,6.0,Texas Rangers
+2020,SB,J.P. Crawford,6.0,Seattle Mariners
+2020,SB,Teoscar Hernández,6.0,Toronto Blue Jays
+2020,SB,Francisco Lindor,6.0,Cleveland Indians
+2020,SB,Brett Phillips,6.0,Kansas City Royals
+2021,HR,Vladimir Guerrero Jr.,48.0,Toronto Blue Jays
+2021,HR,Salvador Perez,48.0,Kansas City Royals
+2021,HR,Shohei Ohtani,46.0,Los Angeles Angels
+2021,HR,Marcus Semien,45.0,Toronto Blue Jays
+2021,HR,Mitch Haniger,39.0,Seattle Mariners
+2021,HR,Aaron Judge,39.0,New York Yankees
+2021,HR,Brandon Lowe,39.0,Tampa Bay Rays
+2021,HR,Matt Olson,39.0,Oakland Athletics
+2021,HR,Rafael Devers,38.0,Boston Red Sox
+2021,HR,Joey Gallo,38.0,Texas Rangers
+2021,HR,José Ramírez,36.0,Cleveland Indians
+2021,HR,Kyle Seager,35.0,Seattle Mariners
+2021,HR,Giancarlo Stanton,35.0,New York Yankees
+2021,HR,Yordan Alvarez,33.0,Houston Astros
+2021,HR,Ryan Mountcastle,33.0,Baltimore Orioles
+2021,HR,Jorge Polanco,33.0,Minnesota Twins
+2021,HR,Mike Zunino,33.0,Tampa Bay Rays
+2021,HR,Nelson Cruz,32.0,Minnesota Twins
+2021,HR,Teoscar Hernández,32.0,Toronto Blue Jays
+2021,HR,Jose Altuve,31.0,Houston Astros
+2021,HR,Adolis García,31.0,Texas Rangers
+2021,HR,Hunter Renfroe,31.0,Boston Red Sox
+2021,HR,José Abreu,30.0,Chicago White Sox
+2021,HR,Cedric Mullins,30.0,Baltimore Orioles
+2021,HR,Franmil Reyes,30.0,Cleveland Indians
+2021,RBI,Salvador Perez,121.0,Kansas City Royals
+2021,RBI,José Abreu,117.0,Chicago White Sox
+2021,RBI,Teoscar Hernández,116.0,Toronto Blue Jays
+2021,RBI,Rafael Devers,113.0,Boston Red Sox
+2021,RBI,Vladimir Guerrero Jr.,111.0,Toronto Blue Jays
+2021,RBI,Matt Olson,111.0,Oakland Athletics
+2021,RBI,Austin Meadows,106.0,Tampa Bay Rays
+2021,RBI,Yordan Alvarez,104.0,Houston Astros
+2021,RBI,José Ramírez,103.0,Cleveland Indians
+2021,RBI,Bo Bichette,102.0,Toronto Blue Jays
+2021,RBI,Marcus Semien,102.0,Toronto Blue Jays
+2021,RBI,Kyle Seager,101.0,Seattle Mariners
+2021,RBI,Mitch Haniger,100.0,Seattle Mariners
+2021,RBI,Shohei Ohtani,100.0,Los Angeles Angels
+2021,RBI,Brandon Lowe,99.0,Tampa Bay Rays
+2021,RBI,J.D. Martinez,99.0,Boston Red Sox
+2021,RBI,Aaron Judge,98.0,New York Yankees
+2021,RBI,Jorge Polanco,98.0,Minnesota Twins
+2021,RBI,Jared Walsh,98.0,Los Angeles Angels
+2021,RBI,Giancarlo Stanton,97.0,New York Yankees
+2021,RBI,Hunter Renfroe,96.0,Boston Red Sox
+2021,RBI,Carlos Correa,92.0,Houston Astros
+2021,RBI,Kyle Tucker,92.0,Houston Astros
+2021,RBI,Adolis García,90.0,Texas Rangers
+2021,RBI,Ryan Mountcastle,89.0,Baltimore Orioles
+2021,SB,Whit Merrifield,40.0,Kansas City Royals
+2021,SB,Cedric Mullins,30.0,Baltimore Orioles
+2021,SB,Myles Straw,30.0,Houston Astros
+2021,SB,José Ramírez,27.0,Cleveland Indians
+2021,SB,Shohei Ohtani,26.0,Los Angeles Angels
+2021,SB,Bo Bichette,25.0,Toronto Blue Jays
+2021,SB,Starling Marte,25.0,Oakland Athletics
+2021,SB,Nicky Lopez,22.0,Kansas City Royals
+2021,SB,Dylan Moore,21.0,Seattle Mariners
+2021,SB,Randy Arozarena,20.0,Tampa Bay Rays
+2021,SB,Robbie Grossman,20.0,Detroit Tigers
+2021,SB,Isiah Kiner-Falefa,20.0,Texas Rangers
+2021,SB,Tim Anderson,18.0,Chicago White Sox
+2021,SB,Akil Baddoo,18.0,Detroit Tigers
+2021,SB,Tyler Wade,17.0,New York Yankees
+2021,SB,Adolis García,16.0,Texas Rangers
+2021,SB,David Fletcher,15.0,Los Angeles Angels
+2021,SB,Adalberto Mondesi,15.0,Kansas City Royals
+2021,SB,Marcus Semien,15.0,Toronto Blue Jays
+2021,SB,Bradley Zimmer,15.0,Cleveland Indians
+2021,SB,Niko Goodrum,14.0,Detroit Tigers
+2021,SB,Brett Phillips,14.0,Tampa Bay Rays
+2021,SB,Michael A. Taylor,14.0,Kansas City Royals
+2021,SB,Gleyber Torres,14.0,New York Yankees
+2021,SB,Kyle Tucker,14.0,Houston Astros
+2022,HR,Aaron Judge,62.0,New York Yankees
+2022,HR,Mike Trout,40.0,Los Angeles Angels
+2022,HR,Yordan Alvarez,37.0,Houston Astros
+2022,HR,Shohei Ohtani,34.0,Los Angeles Angels
+2022,HR,Anthony Santander,33.0,Baltimore Orioles
+2022,HR,Corey Seager,33.0,Texas Rangers
+2022,HR,Vladimir Guerrero Jr.,32.0,Toronto Blue Jays
+2022,HR,Anthony Rizzo,32.0,New York Yankees
+2022,HR,Giancarlo Stanton,31.0,New York Yankees
+2022,HR,Eugenio Suárez,31.0,Seattle Mariners
+2022,HR,Kyle Tucker,30.0,Houston Astros
+2022,HR,José Ramírez,29.0,Cleveland Guardians
+2022,HR,Jose Altuve,28.0,Houston Astros
+2022,HR,Byron Buxton,28.0,Minnesota Twins
+2022,HR,Julio Rodríguez,28.0,Seattle Mariners
+2022,HR,Matt Chapman,27.0,Toronto Blue Jays
+2022,HR,Rafael Devers,27.0,Boston Red Sox
+2022,HR,Adolis García,27.0,Texas Rangers
+2022,HR,Nathaniel Lowe,27.0,Texas Rangers
+2022,HR,Cal Raleigh,27.0,Seattle Mariners
+2022,HR,Marcus Semien,26.0,Texas Rangers
+2022,HR,Seth Brown,25.0,Oakland Athletics
+2022,HR,Teoscar Hernández,25.0,Toronto Blue Jays
+2022,HR,George Springer,25.0,Toronto Blue Jays
+2022,HR,Bo Bichette,24.0,Toronto Blue Jays
+2022,RBI,Aaron Judge,131.0,New York Yankees
+2022,RBI,José Ramírez,126.0,Cleveland Guardians
+2022,RBI,Kyle Tucker,107.0,Houston Astros
+2022,RBI,Adolis García,101.0,Texas Rangers
+2022,RBI,Yordan Alvarez,97.0,Houston Astros
+2022,RBI,Vladimir Guerrero Jr.,97.0,Toronto Blue Jays
+2022,RBI,Shohei Ohtani,95.0,Los Angeles Angels
+2022,RBI,Bo Bichette,93.0,Toronto Blue Jays
+2022,RBI,Alex Bregman,93.0,Houston Astros
+2022,RBI,Randy Arozarena,89.0,Tampa Bay Rays
+2022,RBI,Anthony Santander,89.0,Baltimore Orioles
+2022,RBI,Rafael Devers,88.0,Boston Red Sox
+2022,RBI,Eugenio Suárez,87.0,Seattle Mariners
+2022,RBI,Ryan Mountcastle,85.0,Baltimore Orioles
+2022,RBI,Ty France,84.0,Seattle Mariners
+2022,RBI,Corey Seager,83.0,Texas Rangers
+2022,RBI,Marcus Semien,83.0,Texas Rangers
+2022,RBI,Mike Trout,80.0,Los Angeles Angels
+2022,RBI,Bobby Witt Jr.,80.0,Kansas City Royals
+2022,RBI,Josh Naylor,79.0,Cleveland Guardians
+2022,RBI,Giancarlo Stanton,78.0,New York Yankees
+2022,RBI,Teoscar Hernández,77.0,Toronto Blue Jays
+2022,RBI,Matt Chapman,76.0,Toronto Blue Jays
+2022,RBI,Nathaniel Lowe,76.0,Texas Rangers
+2022,RBI,Salvador Perez,76.0,Kansas City Royals
+2022,SB,Jorge Mateo,35.0,Baltimore Orioles
+2022,SB,Cedric Mullins,34.0,Baltimore Orioles
+2022,SB,Randy Arozarena,32.0,Tampa Bay Rays
+2022,SB,Bobby Witt Jr.,30.0,Kansas City Royals
+2022,SB,Adolis García,25.0,Texas Rangers
+2022,SB,Julio Rodríguez,25.0,Seattle Mariners
+2022,SB,Marcus Semien,25.0,Texas Rangers
+2022,SB,Kyle Tucker,25.0,Houston Astros
+2022,SB,Isiah Kiner-Falefa,22.0,New York Yankees
+2022,SB,Dylan Moore,21.0,Seattle Mariners
+2022,SB,Myles Straw,21.0,Cleveland Guardians
+2022,SB,Andrés Giménez,20.0,Cleveland Guardians
+2022,SB,José Ramírez,20.0,Cleveland Guardians
+2022,SB,Steven Kwan,19.0,Cleveland Guardians
+2022,SB,Jose Altuve,18.0,Houston Astros
+2022,SB,Elvis Andrus,18.0,Oakland Athletics
+2022,SB,Amed Rosario,18.0,Cleveland Guardians
+2022,SB,Bubba Thompson,18.0,Texas Rangers
+2022,SB,Andrew Velazquez,17.0,Los Angeles Angels
+2022,SB,Aaron Judge,16.0,New York Yankees
+2022,SB,Whit Merrifield,16.0,Kansas City Royals
+2022,SB,Jose Siri,14.0,Houston Astros
+2022,SB,George Springer,14.0,Toronto Blue Jays
+2022,SB,Tim Anderson,13.0,Chicago White Sox
+2022,SB,Bo Bichette,13.0,Toronto Blue Jays
+2023,HR,Shohei Ohtani,44.0,Los Angeles Angels
+2023,HR,Adolis García,39.0,Texas Rangers
+2023,HR,Luis Robert Jr.,38.0,Chicago White Sox
+2023,HR,Aaron Judge,37.0,New York Yankees
+2023,HR,Rafael Devers,33.0,Boston Red Sox
+2023,HR,Corey Seager,33.0,Texas Rangers
+2023,HR,Julio Rodríguez,32.0,Seattle Mariners
+2023,HR,Yordan Alvarez,31.0,Houston Astros
+2023,HR,Isaac Paredes,31.0,Tampa Bay Rays
+2023,HR,Spencer Torkelson,31.0,Detroit Tigers
+2023,HR,Cal Raleigh,30.0,Seattle Mariners
+2023,HR,Brent Rooker,30.0,Oakland Athletics
+2023,HR,Bobby Witt Jr.,30.0,Kansas City Royals
+2023,HR,Marcus Semien,29.0,Texas Rangers
+2023,HR,Kyle Tucker,29.0,Houston Astros
+2023,HR,Gunnar Henderson,28.0,Baltimore Orioles
+2023,HR,Anthony Santander,28.0,Baltimore Orioles
+2023,HR,Brandon Drury,26.0,Los Angeles Angels
+2023,HR,Vladimir Guerrero Jr.,26.0,Toronto Blue Jays
+2023,HR,Teoscar Hernández,26.0,Seattle Mariners
+2023,HR,Alex Bregman,25.0,Houston Astros
+2023,HR,Jake Burger,25.0,Chicago White Sox
+2023,HR,Jose Siri,25.0,Tampa Bay Rays
+2023,HR,Gleyber Torres,25.0,New York Yankees
+2023,HR,Triston Casas,24.0,Boston Red Sox
+2023,RBI,Kyle Tucker,112.0,Houston Astros
+2023,RBI,Adolis García,107.0,Texas Rangers
+2023,RBI,Julio Rodríguez,103.0,Seattle Mariners
+2023,RBI,Rafael Devers,100.0,Boston Red Sox
+2023,RBI,Marcus Semien,100.0,Texas Rangers
+2023,RBI,Alex Bregman,98.0,Houston Astros
+2023,RBI,Isaac Paredes,98.0,Tampa Bay Rays
+2023,RBI,Yordan Alvarez,97.0,Houston Astros
+2023,RBI,Josh Naylor,97.0,Cleveland Guardians
+2023,RBI,Corey Seager,96.0,Texas Rangers
+2023,RBI,Eugenio Suárez,96.0,Seattle Mariners
+2023,RBI,Justin Turner,96.0,Boston Red Sox
+2023,RBI,Bobby Witt Jr.,96.0,Kansas City Royals
+2023,RBI,Jonah Heim,95.0,Texas Rangers
+2023,RBI,Shohei Ohtani,95.0,Los Angeles Angels
+2023,RBI,Anthony Santander,95.0,Baltimore Orioles
+2023,RBI,Vladimir Guerrero Jr.,94.0,Toronto Blue Jays
+2023,RBI,Spencer Torkelson,94.0,Detroit Tigers
+2023,RBI,Teoscar Hernández,93.0,Seattle Mariners
+2023,RBI,José Abreu,90.0,Houston Astros
+2023,RBI,Randy Arozarena,83.0,Tampa Bay Rays
+2023,RBI,Brandon Drury,83.0,Los Angeles Angels
+2023,RBI,Josh Lowe,83.0,Tampa Bay Rays
+2023,RBI,Gunnar Henderson,82.0,Baltimore Orioles
+2023,RBI,Nathaniel Lowe,82.0,Texas Rangers
+2023,SB,Esteury Ruiz,67.0,Oakland Athletics
+2023,SB,Bobby Witt Jr.,49.0,Kansas City Royals
+2023,SB,Julio Rodríguez,37.0,Seattle Mariners
+2023,SB,Willi Castro,33.0,Minnesota Twins
+2023,SB,Josh Lowe,32.0,Tampa Bay Rays
+2023,SB,Jorge Mateo,32.0,Baltimore Orioles
+2023,SB,Wander Franco,30.0,Tampa Bay Rays
+2023,SB,Andrés Giménez,30.0,Cleveland Guardians
+2023,SB,Kyle Tucker,30.0,Houston Astros
+2023,SB,José Ramírez,28.0,Cleveland Guardians
+2023,SB,José Caballero,26.0,Seattle Mariners
+2023,SB,Whit Merrifield,26.0,Toronto Blue Jays
+2023,SB,Dairon Blanco,24.0,Kansas City Royals
+2023,SB,Jarren Duran,24.0,Boston Red Sox
+2023,SB,Anthony Volpe,24.0,New York Yankees
+2023,SB,Maikel Garcia,23.0,Kansas City Royals
+2023,SB,Randy Arozarena,22.0,Tampa Bay Rays
+2023,SB,Taylor Walls,22.0,Tampa Bay Rays
+2023,SB,Steven Kwan,21.0,Cleveland Guardians
+2023,SB,Shohei Ohtani,20.0,Los Angeles Angels
+2023,SB,Luis Robert Jr.,20.0,Chicago White Sox
+2023,SB,George Springer,20.0,Toronto Blue Jays
+2023,SB,Myles Straw,20.0,Cleveland Guardians
+2023,SB,Travis Jankowski,19.0,Texas Rangers
+2023,SB,Chas McCormick,19.0,Houston Astros
+2024,HR,Aaron Judge,58.0,New York Yankees
+2024,HR,Anthony Santander,44.0,Baltimore Orioles
+2024,HR,Juan Soto,41.0,New York Yankees
+2024,HR,José Ramírez,39.0,Cleveland Guardians
+2024,HR,Brent Rooker,39.0,Oakland Athletics
+2024,HR,Gunnar Henderson,37.0,Baltimore Orioles
+2024,HR,Yordan Alvarez,35.0,Houston Astros
+2024,HR,Cal Raleigh,34.0,Seattle Mariners
+2024,HR,Bobby Witt Jr.,32.0,Kansas City Royals
+2024,HR,Josh Naylor,31.0,Cleveland Guardians
+2024,HR,Tyler O'Neill,31.0,Boston Red Sox
+2024,HR,Vladimir Guerrero Jr.,30.0,Toronto Blue Jays
+2024,HR,Corey Seager,30.0,Texas Rangers
+2024,HR,Shea Langeliers,29.0,Oakland Athletics
+2024,HR,Rafael Devers,28.0,Boston Red Sox
+2024,HR,Salvador Perez,27.0,Kansas City Royals
+2024,HR,Giancarlo Stanton,27.0,New York Yankees
+2024,HR,Alex Bregman,26.0,Houston Astros
+2024,HR,Adolis García,25.0,Texas Rangers
+2024,HR,Taylor Ward,25.0,Los Angeles Angels
+2024,HR,Colton Cowser,24.0,Baltimore Orioles
+2024,HR,Paul DeJong,24.0,Chicago White Sox
+2024,HR,Riley Greene,24.0,Detroit Tigers
+2024,HR,Zach Neto,23.0,Los Angeles Angels
+2024,HR,Carlos Santana,23.0,Minnesota Twins
+2024,RBI,Aaron Judge,144.0,New York Yankees
+2024,RBI,José Ramírez,118.0,Cleveland Guardians
+2024,RBI,Brent Rooker,112.0,Oakland Athletics
+2024,RBI,Juan Soto,109.0,New York Yankees
+2024,RBI,Bobby Witt Jr.,109.0,Kansas City Royals
+2024,RBI,Josh Naylor,108.0,Cleveland Guardians
+2024,RBI,Salvador Perez,104.0,Kansas City Royals
+2024,RBI,Vladimir Guerrero Jr.,103.0,Toronto Blue Jays
+2024,RBI,Anthony Santander,102.0,Baltimore Orioles
+2024,RBI,Cal Raleigh,100.0,Seattle Mariners
+2024,RBI,Vinnie Pasquantino,97.0,Kansas City Royals
+2024,RBI,Gunnar Henderson,92.0,Baltimore Orioles
+2024,RBI,Yordan Alvarez,86.0,Houston Astros
+2024,RBI,Adolis García,85.0,Texas Rangers
+2024,RBI,Yainer Diaz,84.0,Houston Astros
+2024,RBI,Rafael Devers,83.0,Boston Red Sox
+2024,RBI,Shea Langeliers,80.0,Oakland Athletics
+2024,RBI,Adley Rutschman,79.0,Baltimore Orioles
+2024,RBI,Zach Neto,77.0,Los Angeles Angels
+2024,RBI,Alex Bregman,75.0,Houston Astros
+2024,RBI,Jarren Duran,75.0,Boston Red Sox
+2024,RBI,Ceddanne Rafaela,75.0,Boston Red Sox
+2024,RBI,Taylor Ward,75.0,Los Angeles Angels
+2024,RBI,Riley Greene,74.0,Detroit Tigers
+2024,RBI,Wyatt Langford,74.0,Texas Rangers
+2024,SB,José Caballero,44.0,Tampa Bay Rays
+2024,SB,José Ramírez,41.0,Cleveland Guardians
+2024,SB,Maikel Garcia,37.0,Kansas City Royals
+2024,SB,Jarren Duran,34.0,Boston Red Sox
+2024,SB,David Hamilton,33.0,Boston Red Sox
+2024,SB,Dylan Moore,32.0,Seattle Mariners
+2024,SB,Cedric Mullins,32.0,Baltimore Orioles
+2024,SB,Dairon Blanco,31.0,Kansas City Royals
+2024,SB,Bobby Witt Jr.,31.0,Kansas City Royals
+2024,SB,Andrés Giménez,30.0,Cleveland Guardians
+2024,SB,Zach Neto,30.0,Los Angeles Angels
+2024,SB,Victor Robles,30.0,Seattle Mariners
+2024,SB,Anthony Volpe,28.0,New York Yankees
+2024,SB,Zack Gelof,25.0,Oakland Athletics
+2024,SB,Josh Lowe,25.0,Tampa Bay Rays
+2024,SB,Luis Rengifo,24.0,Los Angeles Angels
+2024,SB,Julio Rodríguez,24.0,Seattle Mariners
+2024,SB,Luis Robert Jr.,23.0,Chicago White Sox
+2024,SB,Leody Taveras,23.0,Texas Rangers
+2024,SB,Jose Altuve,22.0,Houston Astros
+2024,SB,Gunnar Henderson,21.0,Baltimore Orioles
+2024,SB,Randy Arozarena,20.0,Tampa Bay Rays
+2024,SB,Jeremy Peña,20.0,Houston Astros
+2024,SB,Wyatt Langford,19.0,Texas Rangers
+2024,SB,Richie Palacios,19.0,Tampa Bay Rays
+2025,HR,Cal Raleigh,60.0,Seattle Mariners
+2025,HR,Aaron Judge,53.0,New York Yankees
+2025,HR,Junior Caminero,45.0,Tampa Bay Rays
+2025,HR,Jo Adell,37.0,Los Angeles Angels
+2025,HR,Riley Greene,36.0,Detroit Tigers
+2025,HR,Nick Kurtz,36.0,Sacramento Athletics
+2025,HR,Taylor Ward,36.0,Los Angeles Angels
+2025,HR,Byron Buxton,35.0,Minnesota Twins
+2025,HR,Trent Grisham,34.0,New York Yankees
+2025,HR,Vinnie Pasquantino,32.0,Kansas City Royals
+2025,HR,Julio Rodríguez,32.0,Seattle Mariners
+2025,HR,George Springer,32.0,Toronto Blue Jays
+2025,HR,Jazz Chisholm Jr.,31.0,New York Yankees
+2025,HR,Shea Langeliers,31.0,Sacramento Athletics
+2025,HR,Brandon Lowe,31.0,Tampa Bay Rays
+2025,HR,Spencer Torkelson,31.0,Detroit Tigers
+2025,HR,Salvador Perez,30.0,Kansas City Royals
+2025,HR,José Ramírez,30.0,Cleveland Guardians
+2025,HR,Brent Rooker,30.0,Sacramento Athletics
+2025,HR,Cody Bellinger,29.0,New York Yankees
+2025,HR,Randy Arozarena,27.0,Seattle Mariners
+2025,HR,Kyle Manzardo,27.0,Cleveland Guardians
+2025,HR,Christian Walker,27.0,Houston Astros
+2025,HR,Jose Altuve,26.0,Houston Astros
+2025,HR,Kerry Carpenter,26.0,Detroit Tigers
+2025,RBI,Cal Raleigh,125.0,Seattle Mariners
+2025,RBI,Aaron Judge,114.0,New York Yankees
+2025,RBI,Vinnie Pasquantino,113.0,Kansas City Royals
+2025,RBI,Riley Greene,111.0,Detroit Tigers
+2025,RBI,Junior Caminero,110.0,Tampa Bay Rays
+2025,RBI,Taylor Ward,103.0,Los Angeles Angels
+2025,RBI,Salvador Perez,100.0,Kansas City Royals
+2025,RBI,Jo Adell,98.0,Los Angeles Angels
+2025,RBI,Cody Bellinger,98.0,New York Yankees
+2025,RBI,Trevor Story,96.0,Boston Red Sox
+2025,RBI,Julio Rodríguez,95.0,Seattle Mariners
+2025,RBI,Bo Bichette,93.0,Toronto Blue Jays
+2025,RBI,Tyler Soderstrom,93.0,Sacramento Athletics
+2025,RBI,Brent Rooker,89.0,Sacramento Athletics
+2025,RBI,Christian Walker,88.0,Houston Astros
+2025,RBI,Bobby Witt Jr.,88.0,Kansas City Royals
+2025,RBI,Nick Kurtz,86.0,Sacramento Athletics
+2025,RBI,José Ramírez,85.0,Cleveland Guardians
+2025,RBI,Jarren Duran,84.0,Boston Red Sox
+2025,RBI,Vladimir Guerrero Jr.,84.0,Toronto Blue Jays
+2025,RBI,George Springer,84.0,Toronto Blue Jays
+2025,RBI,Byron Buxton,83.0,Minnesota Twins
+2025,RBI,Yandy Díaz,83.0,Tampa Bay Rays
+2025,RBI,Brandon Lowe,83.0,Tampa Bay Rays
+2025,RBI,Jazz Chisholm Jr.,80.0,New York Yankees
+2025,SB,José Caballero,49.0,Tampa Bay Rays
+2025,SB,José Ramírez,44.0,Cleveland Guardians
+2025,SB,Chandler Simpson,44.0,Tampa Bay Rays
+2025,SB,Bobby Witt Jr.,38.0,Kansas City Royals
+2025,SB,Luis Robert Jr.,33.0,Chicago White Sox
+2025,SB,Randy Arozarena,31.0,Seattle Mariners
+2025,SB,Jazz Chisholm Jr.,31.0,New York Yankees
+2025,SB,Trevor Story,31.0,Boston Red Sox
+2025,SB,Gunnar Henderson,30.0,Baltimore Orioles
+2025,SB,Julio Rodríguez,30.0,Seattle Mariners
+2025,SB,Jake Mangum,27.0,Tampa Bay Rays
+2025,SB,Zach Neto,26.0,Los Angeles Angels
+2025,SB,Byron Buxton,24.0,Minnesota Twins
+2025,SB,Jarren Duran,24.0,Boston Red Sox
+2025,SB,Jasson Domínguez,23.0,New York Yankees
+2025,SB,Maikel Garcia,23.0,Kansas City Royals
+2025,SB,Lawrence Butler,22.0,Sacramento Athletics
+2025,SB,David Hamilton,22.0,Boston Red Sox
+2025,SB,Wyatt Langford,22.0,Texas Rangers
+2025,SB,Steven Kwan,21.0,Cleveland Guardians
+2025,SB,Tyler Tolbert,21.0,Kansas City Royals
+2025,SB,Jeremy Peña,20.0,Houston Astros
+2025,SB,Ceddanne Rafaela,20.0,Boston Red Sox
+2025,SB,Zach McKinstry,19.0,Detroit Tigers
+2025,SB,Josh Naylor,19.0,Seattle Mariners
