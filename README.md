@@ -87,7 +87,7 @@ Includes:
 
 ##  Project Structure
 
-capstone_project/
+project/
 │
 ├── web_scraping.py
 ├── database_import.py
@@ -110,7 +110,7 @@ capstone_project/
 ```bash
 
 1. Clone the repository
-git clone https://github.com/merimastarlit/baseball-project-CTD.git
+git clone https://github.com/merimastarlit/baseball_project_CTD.git
 cd capstone_project
 
 ### 1. Install Dependencies
