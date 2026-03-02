@@ -3,62 +3,90 @@ import sqlite3
 import pandas as pd
 import plotly.express as px
 
-# Set up Streamlit app and title:
+# -----------------------------
+# Page Configuration
+# -----------------------------
+st.set_page_config(page_title="AL Stats Dashboard", layout="wide")
+
 st.title("American League Stats Dashboard (2015–2025)")
 
-# Connect to database
-conn = sqlite3.connect("baseball.db")
+st.markdown("""
+This dashboard explores American League Top 25 offensive leaders 
+from 2015–2025 and analyzes the relationship between player performance 
+and team success.
+""")
 
-query = """
-SELECT 
-    player_stats.year,
-    player_stats.player,
-    player_stats.stat_type,
-    player_stats.value,
-    player_stats.team,
-    standings.win_pct
-FROM player_stats
-LEFT JOIN standings
-    ON player_stats.year = standings.year
-    AND player_stats.team = standings.team
-"""
+# -----------------------------
+# Load Data
+# -----------------------------
+@st.cache_data
+def load_data():
+    conn = sqlite3.connect("baseball.db")
+    query = """
+    SELECT 
+        player_stats.year,
+        player_stats.player,
+        player_stats.stat_type,
+        player_stats.value,
+        player_stats.team,
+        standings.win_pct
+    FROM player_stats
+    LEFT JOIN standings
+        ON player_stats.year = standings.year
+        AND player_stats.team = standings.team
+    """
+    df = pd.read_sql(query, conn)
+    conn.close()
+    return df
 
-df = pd.read_sql(query, conn)
-conn.close()
+df = load_data()
 
-# Dropdown menus for year and stat type
-year_selected = st.selectbox(
-    "Select Year",
-    sorted(df["year"].unique())
-)
+# -----------------------------
+# Filters Section
+# -----------------------------
+st.markdown("### Filters")
 
-stat_selected = st.selectbox(
-    "Select Stat",
-    df["stat_type"].unique()
-)
+col_filter1, col_filter2 = st.columns(2)
 
+with col_filter1:
+    year_selected = st.selectbox(
+        "Select Year",
+        sorted(df["year"].unique())
+    )
 
-# Filter DataFrame based on selections
+with col_filter2:
+    stat_selected = st.selectbox(
+        "Select Stat",
+        sorted(df["stat_type"].unique())
+    )
+
+winning_only = st.checkbox("Show only teams above .500")
+
+# -----------------------------
+# Filter Data
+# -----------------------------
 filtered_df = df[
     (df["year"] == year_selected) &
     (df["stat_type"] == stat_selected)
 ]
 
+if winning_only:
+    filtered_df = filtered_df[filtered_df["win_pct"] > 0.500]
 
-# Bar chart of top 25 players
+# -----------------------------
+# Create Visualizations
+# -----------------------------
+
+# Bar Chart
 fig1 = px.bar(
     filtered_df.sort_values("value", ascending=False),
     x="player",
     y="value",
     title=f"Top 25 {stat_selected} Leaders in {year_selected}",
+    labels={"value": stat_selected, "player": "Player"},
 )
 
-st.plotly_chart(fig1)
-
-
-# Scatter plot of player stat vs team win percentage
-st.subheader("Relationship Between Player Performance and Team Success")
-
+# Scatter Plot
 fig2 = px.scatter(
     filtered_df,
     x="value",
@@ -71,12 +99,7 @@ fig2 = px.scatter(
     }
 )
 
-st.plotly_chart(fig2)
-
-
-# Line chart of average stat value over years
-st.subheader("Trend of Average Stat Value Over Time")
-
+# Line Chart (Trend Over Time)
 trend_df = df[df["stat_type"] == stat_selected] \
     .groupby("year")["value"] \
     .mean() \
@@ -88,7 +111,23 @@ fig3 = px.line(
     y="value",
     markers=True,
     title=f"Average {stat_selected} Leaders Value (2015–2025)",
-    labels={"value": f"Average {stat_selected}"}
+    labels={"value": f"Average {stat_selected}", "year": "Year"}
 )
 
-st.plotly_chart(fig3)
+# -----------------------------
+# Layout Charts
+# -----------------------------
+
+st.markdown("### Player Performance Analysis")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.plotly_chart(fig1, use_container_width=True)
+
+with col2:
+    st.plotly_chart(fig2, use_container_width=True)
+
+st.markdown("### Historical Trend")
+
+st.plotly_chart(fig3, use_container_width=True)
