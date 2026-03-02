@@ -1,7 +1,7 @@
 
 # American League Stats Dashboard (2015–2025)
 
-🔗 **Live Demo:** https://your-streamlit-link.streamlit.app  
+ **Live Demo:** https://your-streamlit-link.streamlit.app  
 
 ---
 
