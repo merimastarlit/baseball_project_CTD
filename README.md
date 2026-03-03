@@ -3,6 +3,8 @@
 
  **Live Demo:** https://baseballprojectctd-47.streamlit.app/ 
 
+ NOTE: When you open this link, if it says the app is sleeping due to no activity, just press the blue button, and it should load up. 
+
 ---
 
 ## Project Overview
@@ -84,6 +86,13 @@ Includes:
 - Plotly Express
 
 ---
+
+Screenshot of the live app:  
+
+<img width="1285" height="717" alt="Screenshot 2026-03-03 at 8 35 02 AM" src="https://github.com/user-attachments/assets/ec5c2d33-4e23-4582-be69-09ae06a94c64" />
+
+<img width="1285" height="500" alt="Screenshot 2026-03-03 at 8 35 11 AM" src="https://github.com/user-attachments/assets/93a00978-90cd-46f8-8b26-29a111ae3f4e" />
+
 
 ##  Project Structure
 
